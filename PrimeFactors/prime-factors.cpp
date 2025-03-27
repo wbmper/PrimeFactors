@@ -1,3 +1,3 @@
-class PrimeFactor {
+﻿class PrimeFactor {
 
 };
